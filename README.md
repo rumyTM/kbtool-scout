@@ -4,7 +4,12 @@ Knowledge Base question answer searching website.
 Previously I have used MySQL full-text indexing and searching for implementing full-text search. 
 But here I am using Laravel Scout with Algolia driver. Scout provides driver based solution for full-text search to Eloquent models.
 
+## Demo Link
+
+http://kbtool.herokuapp.com/
+
 I saw a job post on UPWORK and thought I should try it for fun. The job description is given below.
+
 
 ## Screenshot of Job Details
 
